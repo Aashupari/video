@@ -13,7 +13,7 @@ body{
 }
 
 #status,#no_of_objects{
-    font-size: 10px;
+    font-size: 15px;
 }
 
 #footer{
@@ -27,7 +27,7 @@ body{
 
 canvas{
     border: 5px solid white;
-    margin-top: 100px;
+    margin-top: 120px;
     margin-bottom: 100px;
     border-radius: 10px;
 }
